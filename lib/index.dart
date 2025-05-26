@@ -1,0 +1,83 @@
+// Export pages
+export '/pages/login_pages/splash_page/splash_page_widget.dart'
+    show SplashPageWidget;
+export '/pages/login_pages/on_boarding_page/on_boarding_page_widget.dart'
+    show OnBoardingPageWidget;
+export '/pages/login_pages/signin_page/signin_page_widget.dart'
+    show SigninPageWidget;
+export '/pages/login_pages/forgot_password_page/forgot_password_page_widget.dart'
+    show ForgotPasswordPageWidget;
+export '/pages/login_pages/sign_up_page/sign_up_page_widget.dart'
+    show SignUpPageWidget;
+export '/pages/profile_pages/termsand_privacy_page/termsand_privacy_page_widget.dart'
+    show TermsandPrivacyPageWidget;
+export '/pages/login_pages/verification_page/verification_page_widget.dart'
+    show VerificationPageWidget;
+export '/pages/login_pages/reset_password_page/reset_password_page_widget.dart'
+    show ResetPasswordPageWidget;
+export '/pages/login_pages/forgot_verification_page/forgot_verification_page_widget.dart'
+    show ForgotVerificationPageWidget;
+export '/pages/profile_pages/more_page/more_page_widget.dart'
+    show MorePageWidget;
+export '/pages/profile_pages/my_certifications_page/my_certifications_page_widget.dart'
+    show MyCertificationsPageWidget;
+export '/pages/profile_pages/privacypolicy_page/privacypolicy_page_widget.dart'
+    show PrivacypolicyPageWidget;
+export '/pages/profile_pages/feedback_page/feedback_page_widget.dart'
+    show FeedbackPageWidget;
+export '/pages/trending_course_pages/my_courses_detail_page/my_courses_detail_page_widget.dart'
+    show MyCoursesDetailPageWidget;
+export '/pages/trending_course_pages/my_courses_video_old_page/my_courses_video_old_page_widget.dart'
+    show MyCoursesVideoOldPageWidget;
+export '/pages/home_pages/trending_course_all_page/trending_course_all_page_widget.dart'
+    show TrendingCourseAllPageWidget;
+export '/pages/home_pages/recently_addcourse_page/recently_addcourse_page_widget.dart'
+    show RecentlyAddcoursePageWidget;
+export '/pages/home_pages/choose_your_plan_page/choose_your_plan_page_widget.dart'
+    show ChooseYourPlanPageWidget;
+export '/pages/home_pages/checkout_payment_page/checkout_payment_page_widget.dart'
+    show CheckoutPaymentPageWidget;
+export '/pages/home_pages/courses_detail_page/courses_detail_page_widget.dart'
+    show CoursesDetailPageWidget;
+export '/pages/home_pages/search_page/search_page_widget.dart'
+    show SearchPageWidget;
+export '/pages/profile_pages/edit_profile_page/edit_profile_page_widget.dart'
+    show EditProfilePageWidget;
+export '/pages/profile_pages/my_profile_page/my_profile_page_widget.dart'
+    show MyProfilePageWidget;
+export '/pages/home_pages/recentreviews_page/recentreviews_page_widget.dart'
+    show RecentreviewsPageWidget;
+export '/pages/trending_course_pages/my_complete_courses_detail_page/my_complete_courses_detail_page_widget.dart'
+    show MyCompleteCoursesDetailPageWidget;
+export '/pages/home_pages/home_main_page/home_main_page_widget.dart'
+    show HomeMainPageWidget;
+export '/pages/home_pages/payment_failed_page/payment_failed_page_widget.dart'
+    show PaymentFailedPageWidget;
+export '/pages/home_pages/payment_sucessful_screen/payment_sucessful_screen_widget.dart'
+    show PaymentSucessfulScreenWidget;
+export '/pages/home_pages/payment_gateway_page/payment_gateway_page_widget.dart'
+    show PaymentGatewayPageWidget;
+export '/pages/trending_course_pages/quiz_page/quiz_page_widget.dart'
+    show QuizPageWidget;
+export '/pages/trending_course_pages/assignment_page/assignment_page_widget.dart'
+    show AssignmentPageWidget;
+export '/pages/trending_course_pages/quiz_result_page/quiz_result_page_widget.dart'
+    show QuizResultPageWidget;
+export '/pages/trending_course_pages/certifications_page/certifications_page_widget.dart'
+    show CertificationsPageWidget;
+export '/pages/trending_course_pages/review_page/review_page_widget.dart'
+    show ReviewPageWidget;
+export '/pages/home_pages/category_list_page/category_list_page_widget.dart'
+    show CategoryListPageWidget;
+export '/pages/home_pages/category_all_page/category_all_page_widget.dart'
+    show CategoryAllPageWidget;
+export '/pages/profile_pages/chat_detail_page/chat_detail_page_widget.dart'
+    show ChatDetailPageWidget;
+export '/pages/home_pages/course_payment_page/course_payment_page_widget.dart'
+    show CoursePaymentPageWidget;
+export '/pages/home_pages/instructor_profile_page/instructor_profile_page_widget.dart'
+    show InstructorProfilePageWidget;
+export '/pages/profile_pages/about_us_page/about_us_page_widget.dart'
+    show AboutUsPageWidget;
+export '/pages/trending_course_pages/my_courses_video_page/my_courses_video_page_widget.dart'
+    show MyCoursesVideoPageWidget;
