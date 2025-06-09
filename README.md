@@ -1,7 +1,4 @@
-# Entri Education video App
+# Barterly
 
-A new Flutter project.
+Project PMOB PRAK KEL 10
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
